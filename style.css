@@ -1,0 +1,48 @@
+.main{
+    margin-left: 220px;
+    margin-top: 100px;
+}
+.section{
+    display:flex;
+}
+.division{
+   border: 1px solid black;
+   width: 300px;
+   margin-right: 35px;
+}
+.division .secondhalf .desciption{
+   width: 70%;
+}
+
+div>.heding{
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.secondhalf{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 30px;
+}
+
+.secondhalf .desciption {
+   display: flex;
+}
+
+.secondhalf .iconprice{
+   display: flex;
+   margin-top: 20px;
+}
+
+.secondhalf .iconprice .twoip{ 
+  padding-left: 180px;
+}
+
+.secondhalf .iconprice .twoip i{ 
+  /* padding-left: 180px; */
+  background-color: #4ED178;
+}
+.secondhalf .iconprice .oneip{ 
+     font-size: 20px;
+    font-weight: bold;
+}
